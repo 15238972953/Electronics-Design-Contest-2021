@@ -1,0 +1,14 @@
+..\..\output\systick.o: ..\..\Libraries\MSP432P4xx\systick.c
+..\..\output\systick.o: ..\..\Libraries\debug.h
+..\..\output\systick.o: ..\..\Libraries\MSP432P4xx\interrupt.h
+..\..\output\systick.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\systick.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp432p401r.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp_compatibility.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+..\..\output\systick.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+..\..\output\systick.o: ..\..\Libraries\MSP432P4xx\systick.h

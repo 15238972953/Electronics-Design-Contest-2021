@@ -1,0 +1,14 @@
+..\..\output\gpio.o: ..\..\Libraries\MSP432P4xx\gpio.c
+..\..\output\gpio.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\gpio.o: ..\..\Libraries\MSP432P4xx\gpio.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp432p401r.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\TexasInstruments\MSP432\1.0.0\Device\Include\msp_compatibility.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+..\..\output\gpio.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+..\..\output\gpio.o: ..\..\Libraries\debug.h
+..\..\output\gpio.o: ..\..\Libraries\MSP432P4xx\interrupt.h
+..\..\output\gpio.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
